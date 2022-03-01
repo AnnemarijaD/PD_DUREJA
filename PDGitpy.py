@@ -1,2 +1,2 @@
 from math import*
-print(sqrt(81)) #Dureja
+print(sgrt(81)
